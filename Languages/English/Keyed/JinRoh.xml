@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<JRAUsePatchCEDesc>Changing requires a restart. Select which patch of Combat Extended will be used. Remember to backup your saves.</JRAUsePatchCEDesc>
+
+<JRAUsePatchVanilla>Unpatched Vanilla Rimworld</JRAUsePatchVanilla>
+
+<JRAUsePatchCE15>Combat Extended (1.5)</JRAUsePatchCE15>
+
+<JRAUsePatchCE16>Combat Extended (1.6) (Latest)</JRAUsePatchCE16>
+
+<JRASettingsModName>Jin-Roh Armor</JRASettingsModName>
+
+</LanguageData>
