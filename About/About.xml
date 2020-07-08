@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Jin-Roh Kerberos Panzer Cop Armor (Continued)</name>
-  	<packageId>Mlie.JinRohKerberosPanzerCopArmor</packageId>
-	<author>Pooler</author>
-	<url>https://github.com/emipa606/JinRohKerberosPanzerCopArmor</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of Poolers mod for RimWorld 1.1
+  <name>Jin-Roh Kerberos Panzer Cop Armor (Continued)</name>
+  <packageId>Mlie.JinRohKerberosPanzerCopArmor</packageId>
+  <author>Pooler</author>
+  <url>https://github.com/emipa606/JinRohKerberosPanzerCopArmor</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of Poolers mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]

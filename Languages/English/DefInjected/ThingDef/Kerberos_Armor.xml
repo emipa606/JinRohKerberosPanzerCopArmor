@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Kerberos Panzer Cop Helmet -->
+
+  <JRA_Police_Helmet.label>Special Police Helmet</JRA_Police_Helmet.label>
+  <JRA_Police_Helmet.description>While this helmet provides excellent full head protection, its unspoken use is for intimidation. Cold to the touch.</JRA_Police_Helmet.description>
+
+
+  <!-- Kerberos Panzer Cop Armor -->
+
+  <JRA_Police_Armor.label>Special Police Armor</JRA_Police_Armor.label>
+  <JRA_Police_Armor.description>A heavy suit of armor designed to withstand a great deal of ballistic and environmental damage, suited for urban and close-quarters combat.</JRA_Police_Armor.description>
+
+
+</LanguageData>

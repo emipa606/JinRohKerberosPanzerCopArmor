@@ -7,6 +7,8 @@
     <description>While this helmet provides excellent full head protection, its unspoken use is for intimidation. Cold to the touch.</description>
     <techLevel>Industrial</techLevel>
     <tradeability>Sellable</tradeability>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
     <graphicData>
       <texPath>Things/Apparel/Head/PoliceHelmet</texPath>
       <graphicClass>Graphic_Single</graphicClass>
