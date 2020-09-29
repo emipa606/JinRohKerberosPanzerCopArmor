@@ -10,8 +10,10 @@
     <li>1.2</li>
   </supportedVersions>
   <modDependencies />
-  <loadAfter />
-  <description>Update of Poolers mod for RimWorld 1.1
+  <loadAfter>
+    <li>CETeam.CombatExtended</li>
+  </loadAfter>
+  <description>Update of Poolers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030
 
 [img]https://raw.githubusercontent.com/emipa606/RimWorld-Wrapper/master/Notice.png[/img]
