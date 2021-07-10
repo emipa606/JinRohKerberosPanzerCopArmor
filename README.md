@@ -6,6 +6,7 @@ Update of Poolers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030
 
 - Updated the CE-patch and removed the redundant CE-options
+- Added EVA tags for https://steamcommunity.com/workshop/filedetails/?id=1909914131]Save Our Ship 2
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
@@ -102,6 +103,7 @@ Update Log:
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
