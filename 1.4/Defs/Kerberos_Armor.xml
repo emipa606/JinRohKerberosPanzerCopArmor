@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Kerberos Panzer Cop Helmet -->
+  <ThingDef ParentName="ArmorHelmetMakeableBase">
+    <defName>JRA_Police_Helmet</defName>
+    <label>Special Police Helmet</label>
+    <description>While this helmet provides excellent full head protection, its unspoken use is for intimidation. Cold to the touch.</description>
+    <techLevel>Industrial</techLevel>
+    <tradeability>Sellable</tradeability>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <graphicData>
+      <texPath>Things/Apparel/Head/PoliceHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>13000</WorkToMake>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Mass>2.4</Mass>
+      <Flammability>0.1</Flammability>
+      <ArmorRating_Sharp>0.73</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.33</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.75</ArmorRating_Heat>
+      <Insulation_Cold>4</Insulation_Cold>
+      <Insulation_Heat>2</Insulation_Heat>
+      <EquipDelay>3.5</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <ToxicResistance>0.25</ToxicResistance>
+      <SocialImpact>0.20</SocialImpact>
+    </equippedStatOffsets>
+    <costList>
+      <Steel>40</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+      <researchPrerequisite>Fabrication</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>7</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <apparel>
+      <bodyPartGroups>
+        <li>FullHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/Head/PoliceHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>IndustrialMilitaryAdvanced</li>
+        <li>EVA</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useDeflectMetalEffect>true</useDeflectMetalEffect>
+    </apparel>
+    <thingCategories Inherit="False">
+      <li>Headgear</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Kerberos Panzer Cop Armor -->
+  <ThingDef ParentName="ArmorMachineableBase">
+    <defName>JRA_Police_Armor</defName>
+    <label>Special Police Armor</label>
+    <description>A heavy suit of armor designed to withstand a great deal of ballistic and environmental damage, suited for urban and close-quarters combat.</description>
+    <techLevel>Industrial</techLevel>
+    <tradeability>Sellable</tradeability>
+    <generateCommonality>0</generateCommonality>
+    <generateAllowChance>0</generateAllowChance>
+    <graphicData>
+      <texPath>Things/Apparel/Body/PoliceArmor</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <WorkToMake>36000</WorkToMake>
+      <MaxHitPoints>300</MaxHitPoints>
+      <Mass>12.5</Mass>
+      <Flammability>0.1</Flammability>
+      <ArmorRating_Sharp>0.91</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.36</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.7</ArmorRating_Heat>
+      <Insulation_Cold>28</Insulation_Cold>
+      <Insulation_Heat>18</Insulation_Heat>
+      <EquipDelay>10</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+      <ToxicResistance>0.75</ToxicResistance>
+      <MoveSpeed>-0.15</MoveSpeed>
+    </equippedStatOffsets>
+    <costList>
+      <Steel>120</Steel>
+      <ComponentIndustrial>8</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+      <researchPrerequisite>Fabrication</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>8</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <apparel>
+      <bodyPartGroups>
+        <li>Neck</li>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Waist</li>
+        <li>Arms</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>Things/Apparel/Body/PoliceArmor</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>IndustrialMilitaryAdvanced</li>
+        <li>EVA</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useDeflectMetalEffect>true</useDeflectMetalEffect>
+    </apparel>
+    <thingCategories Inherit="False">
+      <li>Apparel</li>
+    </thingCategories>
+  </ThingDef>
+  <!-- Exoskeleton >
+  <ThingDef ParentName="ArmorMachineableBase">
+		<defName>JRA_Exoskeleton</defName>
+		<label>Powered Exoskeleton</label>
+		<description>A mechanical frame intended for increasing its users overall physical capabilities.</description>
+		<techlevel>Spacer</techlevel>
+		<tradeability>Sellable</tradeability>
+		<generateCommonality>0</generateCommonality>
+		<generateAllowChance>0</generateAllowChance>
+	<graphicData>
+      <texPath>Things/Body/Exoskeleton</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+
+    <statBases>
+		<WorkToMake>32000</WorkToMake>
+		<Mass>3.5</Mass>
+		<Flammability>0.2</Flammability>
+		<EquipDelay>10</EquipDelay>
+    </statBases>
+    <equippedStatOffsets>
+		<WorkSpeedGlobal>0.15</WorkSpeedGlobal>
+		<MoveSpeed>0.25</MoveSpeed>
+	</equippedStatOffsets>
+
+    <costList>
+		<Plasteel>40</Plasteel>
+		<ComponentSpacer>4</ComponentSpacer>
+		<Gold>20</Gold>
+    </costList>
+    <recipeMaker>
+		<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+		<researchPrerequisite>PoweredArmor</researchPrerequisite>
+		<skillRequirements>
+			<Crafting>10</Crafting>
+		</skillRequirements>
+		<recipeUsers Inherit="False">
+			<li>FabricationBench</li>
+        </recipeUsers>
+    </recipeMaker>
+
+    <apparel>
+		<careIfWornByCorpse>false</careIfWornByCorpse>
+		<bodyPartGroups>
+			<li>Waist</li>
+		</bodyPartGroups>
+		<wornGraphicPath>Things/Body/Exoskeleton</wornGraphicPath>
+		<layers>
+			<li>Belt</li>
+		</layers>
+		<tags>
+			<li>SpacerMilitary</li>
+		</tags>
+		<defaultOutfitTags>
+			<li>Soldier</li>
+		</defaultOutfitTags>
+	</apparel>
+	<thingCategories Inherit="False">
+		<li>Apparel</li>
+	</thingCategories>
+  </ThingDef>
+-->
+</Defs>
