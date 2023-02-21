@@ -27,6 +27,7 @@
     </statBases>
     <equippedStatOffsets>
       <ToxicResistance>0.25</ToxicResistance>
+      <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.25</ToxicEnvironmentResistance>
       <SocialImpact>0.20</SocialImpact>
     </equippedStatOffsets>
     <costList>
@@ -91,6 +92,7 @@
     </statBases>
     <equippedStatOffsets>
       <ToxicResistance>0.75</ToxicResistance>
+      <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.75</ToxicEnvironmentResistance>
       <MoveSpeed>-0.15</MoveSpeed>
     </equippedStatOffsets>
     <costList>
