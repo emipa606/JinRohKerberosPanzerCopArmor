@@ -1,5 +1,8 @@
 # Changelog for JinRohKerberosPanzerCopArmor
 
+1.4.3 - Added nightvision efficency for the ce-patch
+
+
 1.4.2 - Added ToxicEnvironmentResistance.
 Used DeepL to update translations for ChineseSimplified, French, German, Russian
 
