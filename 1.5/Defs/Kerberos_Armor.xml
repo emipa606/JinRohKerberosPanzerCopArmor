@@ -29,6 +29,8 @@
       <ToxicResistance>0.25</ToxicResistance>
       <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.25</ToxicEnvironmentResistance>
       <SocialImpact>0.20</SocialImpact>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
+      <HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
     </equippedStatOffsets>
     <costList>
       <Steel>40</Steel>
@@ -64,6 +66,11 @@
     <thingCategories Inherit="False">
       <li>Headgear</li>
     </thingCategories>
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
   </ThingDef>
   <!-- Kerberos Panzer Cop Armor -->
   <ThingDef ParentName="ArmorMachineableBase">
@@ -94,6 +101,7 @@
       <ToxicResistance>0.75</ToxicResistance>
       <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.75</ToxicEnvironmentResistance>
       <MoveSpeed>-0.15</MoveSpeed>
+      <DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
     </equippedStatOffsets>
     <costList>
       <Steel>120</Steel>
@@ -134,6 +142,11 @@
     <thingCategories Inherit="False">
       <li>Apparel</li>
     </thingCategories>
+    <comps>
+      <li MayRequire="kentington.saveourship2">
+        <compClass>SaveOurShip2.CompEVA</compClass>
+      </li>
+    </comps>
   </ThingDef>
   <!-- Exoskeleton >
   <ThingDef ParentName="ArmorMachineableBase">

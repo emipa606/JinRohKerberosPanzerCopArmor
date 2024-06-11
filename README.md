@@ -1,4 +1,4 @@
-# JinRohKerberosPanzerCopArmor
+# [Jin-Roh Kerberos Panzer Cop Armor (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2038994354)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,17 +6,14 @@ Update of Poolers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030
 
 - Updated the CE-patch and removed the redundant CE-options
-- Added EVA tags for https://steamcommunity.com/workshop/filedetails/?id=1909914131]Save Our Ship 2
+- Added EVA tags for [Save Our Ship 2](https://steamcommunity.com/workshop/filedetails/?id=1909914131)
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
-
 ![Image](https://i.imgur.com/TC0fBfe.png)
-
 
 Armor set based off of the 1999 japanese animated film **Jin-Roh: The Wolf Brigade.**
 
@@ -28,7 +25,6 @@ CE 1.6 Patch added, check mod settings to switch versions.
 Balanced to be a tier below power armor.
 
 ![Image](https://i.imgur.com/ji5cL9I.png)
-
 
 Armor Rating: **0.73 Sharp / 0.33 Blunt / 0.7 Heat**
 
@@ -43,7 +39,6 @@ CE Patch:
 
 ![Image](https://i.imgur.com/JaC6PjI.png)
 
-
 Armor Rating: **0.91 Sharp / 0.36 Blunt / 0.7 Heat**
 
 Crafting Requirements:
@@ -55,21 +50,17 @@ CE Patch: **Carry Weight +40 / Carry Bulk +10**
 
 ![Image](https://i.imgur.com/1ytMA2I.png)
 
-
 Both can be crafted at the Fabrication Table.
 
 ![Image](https://i.imgur.com/jJmjUJ9.png)
 
-
 Click on the picture to check out the MG42 from CEC:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1862509294andsearchtext=]![Image](https://i.imgur.com/SI9dNBv.png)
-
+[![Image](https://i.imgur.com/SI9dNBv.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1862509294andsearchtext=)
 
 ![Image](https://i.imgur.com/83vdKuU.png)
 
-
-**Inspiration**: https://en.wikipedia.org/wiki/Jin-Roh:_The_Wolf_Brigade]Jin-Roh: The Wolf Brigade
-**Rimworld**: https://rimworldgame.com/]Tynan Sylvester, Ludeon Studios
+**Inspiration**: [Jin-Roh: The Wolf Brigade](https://en.wikipedia.org/wiki/Jin-Roh:_The_Wolf_Brigade)
+**Rimworld**: [Tynan Sylvester, Ludeon Studios](https://rimworldgame.com/)
 **Mod Creator**: Pooler
 
 ![Image](https://i.imgur.com/vKP0foj.png)
@@ -90,13 +81,12 @@ Update Log:
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2038994354]![Image](https://img.shields.io/github/v/release/emipa606/JinRohKerberosPanzerCopArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/JinRohKerberosPanzerCopArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2038994354)

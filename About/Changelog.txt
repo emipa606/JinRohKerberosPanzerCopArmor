@@ -1,5 +1,8 @@
 # Changelog for JinRohKerberosPanzerCopArmor
 
+1.5.2 - Fixed the SOS2 compatibility
+
+
 1.5.1 - Mod updated for 1.5 and passed autotests
 
 
