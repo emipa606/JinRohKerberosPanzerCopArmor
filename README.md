@@ -5,7 +5,7 @@
 Update of Poolers mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030
 
-- Updated the CE-patch and removed the redundant CE-options
+- ~~Updated the CE-patch and removed the redundant CE-options~~ CE patch is now included in CE itself
 - Added EVA tags for [Save Our Ship 2](https://steamcommunity.com/workshop/filedetails/?id=1909914131)
 
 ![Image](https://i.imgur.com/pufA0kM.png)
@@ -87,6 +87,6 @@ Update Log:
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/JinRohKerberosPanzerCopArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2038994354)
+[![Image](https://img.shields.io/github/v/release/emipa606/JinRohKerberosPanzerCopArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2038994354) | tags:  movie-inspired

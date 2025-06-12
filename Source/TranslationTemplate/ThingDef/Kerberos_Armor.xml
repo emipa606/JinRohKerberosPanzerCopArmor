@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Special Police Armor -->
+  <JRA_Police_Armor.label>Special Police Armor</JRA_Police_Armor.label>
+  <!-- EN: A heavy suit of armor designed to withstand a great deal of ballistic and environmental damage, suited for urban and close-quarters combat. -->
+  <JRA_Police_Armor.description>A heavy suit of armor designed to withstand a great deal of ballistic and environmental damage, suited for urban and close-quarters combat.</JRA_Police_Armor.description>
+  <!-- EN: Special Police Helmet -->
+  <JRA_Police_Helmet.label>Special Police Helmet</JRA_Police_Helmet.label>
+  <!-- EN: While this helmet provides excellent full head protection, its unspoken use is for intimidation. Cold to the touch. -->
+  <JRA_Police_Helmet.description>While this helmet provides excellent full head protection, its unspoken use is for intimidation. Cold to the touch.</JRA_Police_Helmet.description>
+</LanguageData>
