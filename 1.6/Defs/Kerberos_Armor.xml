@@ -31,6 +31,7 @@
       <SocialImpact>0.20</SocialImpact>
       <DecompressionResistance MayRequire="kentington.saveourship2">0.25</DecompressionResistance>
       <HypoxiaResistance MayRequire="kentington.saveourship2">1</HypoxiaResistance>
+      <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.67</VacuumResistance>
     </equippedStatOffsets>
     <costList>
       <Steel>40</Steel>
@@ -47,6 +48,7 @@
       </recipeUsers>
     </recipeMaker>
     <apparel>
+      <immuneToToxGasExposure>true</immuneToToxGasExposure>
       <bodyPartGroups>
         <li>FullHead</li>
       </bodyPartGroups>
@@ -102,6 +104,7 @@
       <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.75</ToxicEnvironmentResistance>
       <MoveSpeed>-0.15</MoveSpeed>
       <DecompressionResistance MayRequire="kentington.saveourship2">0.75</DecompressionResistance>
+      <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.3</VacuumResistance>
     </equippedStatOffsets>
     <costList>
       <Steel>120</Steel>
