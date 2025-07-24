@@ -4,6 +4,12 @@
   "CanRemove": "2",
   "PreviewVersion": "1.6",
   "SocialImageSet": true,
-  "LastXmlCleaning": "2025-06-24T15:29:03.4583632+02:00",
-  "SearchTags": " movie-inspired"
+  "LastXmlCleaning": "2025-07-24T16:49:12.2119398+02:00",
+  "SearchTags": " movie-inspired",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 7401,
+  "CodeBaseSize": 61
 }

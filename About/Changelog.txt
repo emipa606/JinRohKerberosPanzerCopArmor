@@ -1,5 +1,8 @@
 # Changelog for JinRohKerberosPanzerCopArmor
 
+1.6.3 - Removed mayrequire for toxicresistance
+
+
 1.6.2 - Fixed space-properties
 
 
