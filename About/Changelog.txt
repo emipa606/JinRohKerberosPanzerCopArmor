@@ -1,5 +1,8 @@
 # Changelog for JinRohKerberosPanzerCopArmor
 
+1.6.4 - Fixed cold resistance for being in space
+
+
 1.6.3 - Removed mayrequire for toxicresistance
 
 
